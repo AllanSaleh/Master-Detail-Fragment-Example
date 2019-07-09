@@ -1,0 +1,4 @@
+#Tue Jul 09 12:38:51 AST 2019
+base.0=C\:\\Users\\allan\\OneDrive\\Documents\\AndroidProjects\\android-advanced-starter-apps1\\SongDetail_start\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
